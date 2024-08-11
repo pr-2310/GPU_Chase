@@ -1,7 +1,4 @@
-Done by Prithvi (pc3427)
-
 # GPU Chase in Google Cloud: A Quick Guide
-- Done by Prithvi (pc3427)
 
 Welcome to my GPU Chase script guide! This simple bash script is designed to help small companies find and use a GPU on Google Cloud Platform (GCP) for urgent AI model tasks without the need for premium support. Below, you'll find straightforward instructions on how to use this script to automate the search for available GPUs, attempt to create a VM with the GPU, and manage resources efficiently.
 
