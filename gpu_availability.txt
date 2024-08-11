@@ -1,0 +1,2 @@
+Zone | GPU Type | VM Name | Status | Comments
+us-east1-b | nvidia-l4 | gpu-vm-us-east1-b | Success | VM creation successful
